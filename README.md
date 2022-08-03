@@ -1,3 +1,5 @@
+![banner](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
+
 ## Hi there 👋
 
 Welcome to my GitHub! My name is Jesus Gil. I am currently attending the University of Florida (2022 - 2024) pursuing Computer Science M.S. I am active in hackathons, practice coding sessions, and academic research within the computing field. Please feel free to contact or connect with me through social media or email.
