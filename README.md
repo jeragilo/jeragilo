@@ -52,6 +52,8 @@ Please feel free to check out my credentials through my
  - Jupyter Notebook
  - Jupyter Lab
  - R Studio
+ 
+![4 Linux](https://img.shields.io/badge/4-Virtual&nbsp;Linux-midnightblue?style=for-the-badge&logo=appveyor)
 
 
 ## 💡 Future topics I want to improve on...
