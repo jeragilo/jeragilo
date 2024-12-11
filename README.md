@@ -2,20 +2,20 @@
 
 ## Hi there 👋
 
-# Welcome to My GitHub!
-I’m a Computer Science graduate with a passion for:
-- **AI/ML:** Developing intelligent systems and exploring deep learning.
-- **Finance:** Quantitative models and algorithmic trading.
-- **DevOps:** Building CI/CD pipelines and automating infrastructure.
-- **Quantum Computing:** Experimenting with quantum algorithms.
-- **Software Engineering:** Designing and implementing scalable solutions.
+I’m a **Computer Science Master's graduate** with a background in **Mathematics**. My interests include:
+- 🚀 **AI/ML**: Developing intelligent systems and exploring deep learning.
+- 📊 **Finance**: Building quantitative models and algorithmic trading strategies.
+- 🛠 **DevOps**: Automating infrastructure and CI/CD pipelines.
+- 🌌 **Quantum Computing**: Experimenting with Qiskit and quantum algorithms.
+- 💻 **Software Engineering**: Crafting scalable solutions for the modern web.
 
 ## Pinned Repositories
-- [AI/ML Projects](https://github.com/jeragilo/ai-ml-projects)
-- [DevOps Automation](https://github.com/jeragilo/devops-automation)
-- [Quantitative Finance Models](https://github.com/jeragilo/quantitative-finance)
-- [Software Engineering Projects](https://github.com/jeragilo/software-engineering-projects)
-- [Quantum Computing Demos](https://github.com/jeragilo/quantum-computing-demos)
+Here are some of my projects:
+- [AI/ML Projects](https://github.com/jeragilo/ai-ml-projects): Machine learning and AI solutions.
+- [DevOps Automation](https://github.com/jeragilo/devops-automation): Examples of CI/CD and infrastructure automation.
+- [Quantitative Finance Models](https://github.com/jeragilo/quantitative-finance): Financial algorithms and quantitative models.
+- [Software Engineering Projects](https://github.com/jeragilo/software-engineering-projects): Backend and full-stack web applications.
+- [Quantum Computing Demos](https://github.com/jeragilo/quantum-computing-demos): Demos of quantum computing concepts.
 
 ## GitHub Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
