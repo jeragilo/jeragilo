@@ -1,5 +1,9 @@
 ![banner](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
 
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-green)
+
 ## Hi there 👋
 
 I’m a **Computer Science Master's graduate** with a background in **Mathematics**. My interests include:
