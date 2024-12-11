@@ -1,5 +1,7 @@
 ![banner](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ## Hi there 👋
 
 I’m a **Computer Science Master's graduate** with a background in **Mathematics**. My interests include:
