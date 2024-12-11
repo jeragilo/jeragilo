@@ -2,7 +2,20 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub! My name is Jesus Gil. I am currently attending the University of Florida (2022 - 2024) pursuing Computer Science M.S. I am active in hackathons, practice coding sessions, and academic research within the computing field. Please feel free to contact or connect with me through social media or email.
+# Welcome to My GitHub!
+I’m a Computer Science graduate with a passion for:
+- **AI/ML:** Developing intelligent systems and exploring deep learning.
+- **Finance:** Quantitative models and algorithmic trading.
+- **DevOps:** Building CI/CD pipelines and automating infrastructure.
+- **Quantum Computing:** Experimenting with quantum algorithms.
+- **Software Engineering:** Designing and implementing scalable solutions.
+
+## Pinned Repositories
+- [AI/ML Projects](https://github.com/jeragilo/ai-ml-projects)
+- [DevOps Automation](https://github.com/jeragilo/devops-automation)
+- [Quantitative Finance Models](https://github.com/jeragilo/quantitative-finance)
+- [Software Engineering Projects](https://github.com/jeragilo/software-engineering-projects)
+- [Quantum Computing Demos](https://github.com/jeragilo/quantum-computing-demos)
 
 ## GitHub Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
