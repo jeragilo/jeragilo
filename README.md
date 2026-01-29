@@ -104,5 +104,3 @@ Node.js · Next.js · Docker · GraphQL
 - **Email:** jesusgil1098@gmail.com  
 
 ---
-
-*This GitHub is curated to showcase completed, high-quality projects rather than experimental or coursework-only repositories.*
