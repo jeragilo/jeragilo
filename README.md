@@ -72,5 +72,4 @@ Node.js · Next.js · Docker · GraphQL
 
 ---
 
-*This GitHub is intentionally curated.  
-It highlights finished systems rather than exploratory or coursework-only code.*
+
