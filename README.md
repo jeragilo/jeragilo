@@ -105,30 +105,6 @@ This academic path reflects a deliberate blend of:
 - Machine learning and data systems
 - Security, privacy, and policy
 
----
-
-## Coursework (Contextualized)
-
-Rather than listing courses as credentials, here is how they shape my work:
-
-**Mathematics**
-- Linear algebra, probability & statistics, abstract algebra, differential equations, PDEs  
-→ informs model behavior, numerical stability, and analytical reasoning
-
-**Computer Science & Systems**
-- Algorithms, operating systems, networking, databases, HPC  
-→ informs performance tradeoffs, memory models, and distributed execution
-
-**Machine Learning & Data**
-- ML, intelligent systems, data mining, data quality  
-→ informs end-to-end ML system design and evaluation
-
-**Security**
-- Information privacy, cybersecurity, law & ethics  
-→ informs secure system boundaries and responsible deployment
-
----
-
 ## Certifications & Professional Training (How They’re Used)
 
 My certifications reinforce **implementation depth**, not surface knowledge.
@@ -162,30 +138,6 @@ These are applied directly in my systems work rather than treated as standalone 
 - Distributed Systems
 - Secure System Design
 - Quantitative & Statistical Analysis
-
----
-
-## Professional Experience (Context)
-
-My professional background complements my technical work:
-- Systems support and database work emphasizing reliability and monitoring
-- Data and technical roles focused on tooling and workflows
-- Teaching and tutoring in mathematics and technical subjects
-- NCAA student-athlete and tennis coach roles developing discipline, leadership, and execution under pressure
-
----
-
-## Languages
-
-- English — Native / bilingual proficiency  
-- Spanish — Native / bilingual proficiency  
-
----
-
-## Closing
-
-I approach engineering and research as **systems problems**, not isolated tasks.  
-Correctness, performance, security, and scalability are inseparable.
 
 ---
 
