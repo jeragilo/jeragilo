@@ -5,7 +5,7 @@
 
 # Jesús Gil
 
-Computer Science M.S. with a Mathematics background.  
+Computer Science M.S. with a Mathematics B.S.  
 I build research-driven, performance-aware systems where correctness, scalability, and real constraints matter.  
 I work comfortably across both research prototypes and production-minded systems.
 
@@ -49,17 +49,25 @@ and what tradeoffs were encountered*.
 
 ## Technical Background (Selective)
 
-**Languages:**  
-Python · C++ · CUDA · Java · R · SQL · JavaScript / TypeScript
+## Technical Skills
 
-**Parallel & Systems:**  
-CUDA · MPI · OpenMP · SLURM · Linux
+**Languages & Systems**
+- Python, C++, CUDA, MPI, SQL, Linux
 
-**ML & Data:**  
-PyTorch · ONNX · scikit-learn · NumPy · Pandas
+**ML & Data**
+- PyTorch, ONNX, NumPy, Pandas, scikit-learn, Jupyter
 
-**Web & Infrastructure:**  
-Node.js · Next.js · Docker · GraphQL
+**Infrastructure**
+- Docker, Kubernetes, Terraform  
+- AWS, Azure  
+- CI/CD, MLOps  
+- OpenShift, VMware, vSphere  
+
+**Foundations**
+- High-Performance Computing  
+- Distributed Systems  
+- Secure System Design  
+- Quantitative Analysis
 
 ---
 
