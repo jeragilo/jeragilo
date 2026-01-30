@@ -6,12 +6,10 @@
 # Jesús Gil
 
 Computer Science M.S. with a Mathematics background.  
-I build **research-driven, performance-aware systems** where correctness,
-scalability, and real constraints matter.
+I build research-driven, performance-aware systems where correctness, scalability, and real constraints matter.  
+I work comfortably across both research prototypes and production-minded systems.
 
-My work sits at the intersection of **machine learning, high-performance computing,
-and systems engineering**, with applied projects in finance, security, and modern
-software architecture.
+My work sits at the intersection of machine learning, high-performance computing, and systems engineering, with applied projects in finance, security, and modern software architecture.
 
 ---
 
