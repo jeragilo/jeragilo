@@ -15,22 +15,6 @@ I’m comfortable operating across **research prototypes and production-minded s
 
 ---
 
-## What I Build
-
-I don’t build isolated models or one-off demos. I build **systems**.
-
-That includes:
-- Machine learning systems designed with **performance, noise, and deployment constraints** in mind
-- High-performance and parallel software where **hardware, memory, and communication matter**
-- Cloud-native and distributed systems that are **observable, reproducible, and secure**
-- Research platforms that emphasize **negative results, limits, and failure modes**, not just success cases
-
-My work is guided by a consistent philosophy:
-
-**Measure first. Reason from data. Design for scale.**
-
----
-
 ## Selected Work (Explained)
 
 Rather than listing repositories, the sections below describe the **systems I’ve built and the problems they address**. Each system is backed by one or more repositories.
