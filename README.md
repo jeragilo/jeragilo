@@ -1,131 +1,82 @@
-
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-orange)
-![Docker](https://img.shields.io/badge/Docker-Containerization-green)
-
 # Jesús Gil
 
-Systems & Machine Learning Engineer  
-Performance-Aware ML · High-Performance Computing · Cloud & Security
+**Computer Scientist & Applied Mathematician**  
+Quantum Computing · Machine Learning · High-Performance Computing
 
-I build **research-driven, performance-aware systems** where correctness, scalability, and real constraints matter.  
-My background spans computer science, mathematics, and cybersecurity, and my work sits at the intersection of **machine learning, systems engineering, and applied computation**.
+I build research-driven computational systems at the intersection of **quantum computing, machine learning, and scientific computing**. My work focuses on reliability under real constraints: quantum noise, limited circuit depth, computational scaling, model stability, and hardware-aware performance.
 
-I’m comfortable operating across **research prototypes and production-minded systems**, and I focus heavily on understanding *why systems fail*, *where models break*, and *how architecture shapes outcomes*.
+## Featured Work
 
----
+### Noise-Robust Hybrid Quantum Neural Networks
+**Master’s thesis research — East Carolina University**  
+[`noise-robust-hqnn-framework`](https://github.com/jeragilo/noise-robust-hqnn-framework)
 
-## Selected Work (Explained)
+A reusable experimental framework for evaluating and improving hybrid quantum–classical neural networks under NISQ-era noise.
 
-Rather than listing repositories, the sections below describe the **systems I’ve built and the problems they address**. Each system is backed by one or more repositories.
+- Built with **Qiskit, Qiskit Aer, Cirq, PennyLane, scikit-learn, NumPy, and Matplotlib**
+- Implements depolarizing, bit-flip, phase-flip, and amplitude-damping noise models
+- Evaluates learned classical readout, multi-observable quantum features, architecture search, noise-aware objectives, repeated trials, and statistical validation
+- Improved evaluated noisy classification performance from approximately **0.37 with fixed parity readout to approximately 0.82–0.85 with learned and multi-observable readouts**
+- Explores how measurement design, entanglement structure, and classical post-processing affect robustness in hybrid quantum learning systems
 
-### Noise-Robust Machine Learning & Research Systems
+### CUDA Particle Simulation
+[`cuda-particle-simulation-hpc`](https://github.com/jeragilo/cuda-particle-simulation-hpc)
 
-**Noise-Robust Hybrid Quantum Neural Networks (Master’s Thesis, ECU)**
+GPU-accelerated particle simulation developed and benchmarked on the **Bridges2 supercomputer**.
 
-I conducted a research-grade experimental study on **hybrid quantum-classical neural networks (HQNNs)** under realistic noisy intermediate-scale quantum (NISQ) conditions.
+- CUDA C/C++ implementation with serial CPU baseline
+- GPU parallelization and memory-access analysis
+- SLURM execution and performance benchmarking
+- Correctness validation before performance measurement
 
-Instead of treating quantum noise as an afterthought, this work:
-- Explicitly models noise at the system and optimizer level
-- Compares hybrid architectures against classical ML baselines
-- Evaluates stability, convergence, and failure modes across frameworks
+### Parallel Scientific Computing with MPI
+[`High-Performance-Parallel-Pi-Approximation-Using-MPI-and-SLURM`](https://github.com/jeragilo/High-Performance-Parallel-Pi-Approximation-Using-MPI-and-SLURM)
 
-I built a **13-demo experimental ecosystem** using Qiskit, Cirq, and PennyLane, and showed that:
-- Localized, noise-aware hybrid architectures degrade gracefully
-- Globally entangled quantum models collapse under realistic noise
-- Many reported quantum ML advantages disappear when evaluated honestly
+Distributed numerical computation using **C++, MPI, and SLURM** on Bridges2.
 
-This work emphasizes **reproducibility, negative results, and architectural realism**.
+- Benchmarked scaling across 1, 12, 24, and 48 cores
+- Achieved approximately **10× speedup at 12 cores**
+- Analyzed efficiency loss and communication overhead as parallelism increased
 
----
+### LSTM Forecasting & ML Deployment
+[`lstm-stock-forecasting-system`](https://github.com/jeragilo/lstm-stock-forecasting-system)
 
-### High-Performance & Parallel Computing Systems
+End-to-end machine-learning system combining **PyTorch, ONNX, Flask, React, and financial time-series features**.
 
-I build **performance-critical software** where architectural choices matter more than algorithms alone.
+- LSTM training and evaluation pipeline
+- ONNX export and inference validation
+- Flask API and React frontend
+- Technical indicators including RSI, SMA, EMA, momentum, volatility, and MACD
 
-My HPC work includes:
-- CUDA-accelerated particle simulations with CPU vs GPU benchmarking
-- MPI-based distributed Monte Carlo systems executed under SLURM
-- Analysis of memory access patterns, communication overhead, and scaling limits
+### Research Portfolio Platform
+[`AI-Research-Portfolio-System`](https://github.com/jeragilo/AI-Research-Portfolio-System)
 
-These systems were executed on production HPC infrastructure and focus on **how computation behaves under real hardware constraints**, not just theoretical speedups.
+A deployed **Next.js + TypeScript** research portfolio with dynamic routing, reusable components, and Vercel deployment.
 
----
+### Blockchain Identity Prototype
+[`Blockchain-identity-verification`](https://github.com/jeragilo/Blockchain-identity-verification)
 
-### Applied Machine Learning Systems
+Experimental decentralized identity-registration system using **Solidity, Hardhat, Ethereum/Sepolia, ethers.js, Next.js, TypeScript, and MetaMask**.
 
-I design end-to-end ML systems that go beyond notebooks.
+## Technical Focus
 
-This includes:
-- Time-series forecasting pipelines for financial and quantitative data
-- Feature engineering grounded in mathematical reasoning
-- Inference optimization (including ONNX-based deployment)
-- Evaluation under non-ideal data and operational constraints
+**Quantum & Research**  
+Qiskit · Cirq · PennyLane · NISQ noise modeling · Hybrid quantum–classical algorithms · Quantum machine learning
 
-The emphasis is always on **deployment readiness, monitoring, and failure awareness**, not leaderboard scores.
+**Machine Learning & Scientific Computing**  
+Python · PyTorch · scikit-learn · NumPy · Pandas · ONNX · Jupyter
 
----
+**High-Performance Computing**  
+C++ · CUDA · MPI · SLURM · GPU computing · performance benchmarking
 
-### Secure & Distributed Software Systems
+**Software & Platforms**  
+Git · Linux · SQL · Flask · React · Next.js · TypeScript · Docker · AWS · Azure
 
-I’ve built and studied systems where **security and correctness are first-class concerns**, including:
-- Backend and frontend architectures with clear trust boundaries
-- Blockchain-based identity verification primitives
-- Secure data handling and access control considerations
-- Infrastructure designed with observability and auditability in mind
+## Education
 
----
+- **M.S. Computer Science** — East Carolina University
+- **B.S. Mathematics** — North Carolina Wesleyan University
 
-## Academic Background
+## Links
 
-- **M.S. Computer Science** — East Carolina University  
-- **M.S. Cybersecurity** — North Carolina A&T State University (in progress)  
-- **M.S. Mathematics** — North Carolina Central University (in progress)  
-- **B.S. Mathematics** — North Carolina Wesleyan University  
-
-This academic path reflects a deliberate blend of:
-- Mathematical foundations (algebra, probability, analysis)
-- Systems and architecture (OS, networking, HPC)
-- Machine learning and data systems
-- Security, privacy, and policy
-
-## Certifications & Professional Training (How They’re Used)
-
-My certifications reinforce **implementation depth**, not surface knowledge.
-
-They support:
-- **Cloud & Infrastructure** (AWS, Azure, Kubernetes, Terraform)
-- **DevOps / MLOps** (CI/CD, SageMaker, Azure ML, deployment pipelines)
-- **Advanced ML & Statistics** (linear models, biostatistics, ML evaluation)
-- **Security & Emerging Topics** (cybersecurity tools, AI, quantum information)
-
-These are applied directly in my systems work rather than treated as standalone achievements.
-
----
-
-## Technical Skills (Refined)
-
-**Languages & Low-Level Systems**
-- Python, C++, CUDA, MPI, SQL, Linux
-
-**Machine Learning & Data**
-- PyTorch, ONNX, NumPy, Pandas, scikit-learn, Jupyter
-
-**Infrastructure & Platforms**
-- Docker, Kubernetes, Terraform
-- AWS, Azure
-- CI/CD, MLOps
-- OpenShift, VMware, vSphere
-
-**Foundations**
-- High-Performance Computing
-- Distributed Systems
-- Secure System Design
-- Quantitative & Statistical Analysis
-
----
-
-**LinkedIn:** https://www.linkedin.com/in/jesusrgil  
-**GitHub:** https://github.com/jeragilo  
-
-
+[LinkedIn](https://www.linkedin.com/in/jesusrgil) · [GitHub](https://github.com/jeragilo)
