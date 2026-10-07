@@ -8,7 +8,7 @@ I build research-driven computational systems at the intersection of **quantum c
 ## Featured Work
 
 ### Noise-Robust Hybrid Quantum Neural Networks
-**Master’s thesis research — **  
+**Master’s thesis research — University of North Carolina at Charlotte**  
 [`noise-robust-hqnn-framework`](https://github.com/jeragilo/noise-robust-hqnn-framework)
 
 A reusable experimental framework for evaluating and improving hybrid quantum–classical neural networks under NISQ-era noise.
