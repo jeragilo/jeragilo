@@ -19,8 +19,6 @@ Coauthored with Dr. Nasseh Tabrizi, East Carolina University.
 
 A systematic review synthesizing 349 retained reviews across eight quantum computing domains and introducing a six-level evidence framework for evaluating practical quantum utility.
 
-**Status:** Both manuscripts are submitted, not yet accepted or published.
-
 ## Featured Work
 
 ### Noise-Robust Hybrid Quantum Neural Networks
