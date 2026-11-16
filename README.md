@@ -5,6 +5,22 @@ Quantum Computing · Machine Learning · High-Performance Computing
 
 I build research-driven computational systems at the intersection of **quantum computing, machine learning, and scientific computing**. My work focuses on reliability under real constraints: quantum noise, limited circuit depth, computational scaling, model stability, and hardware-aware performance.
 
+## Research Publications & Manuscripts
+
+### Beyond Parity: Measurement Representation and Decoder Capacity in Noise-Robust Hybrid Quantum Neural Networks
+**Submitted to *Quantum Machine Intelligence* (Springer Nature)**  
+Coauthored with Dr. David Hart, East Carolina University.
+
+Experimental research on quantum measurement representations, classical decoder capacity, and noise robustness in hybrid quantum neural networks, including controlled benchmarking and IBM Marrakesh hardware validation.
+
+### From Quantum Possibility to Quantum Utility: A Cross-Domain Systematic Review and Six-Level Evidence Framework
+**Submitted to *IEEE Access***  
+Coauthored with Dr. Nasseh Tabrizi, East Carolina University.
+
+A systematic review synthesizing 349 retained reviews across eight quantum computing domains and introducing a six-level evidence framework for evaluating practical quantum utility.
+
+**Status:** Both manuscripts are submitted, not yet accepted or published.
+
 ## Featured Work
 
 ### Noise-Robust Hybrid Quantum Neural Networks
