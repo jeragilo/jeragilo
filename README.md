@@ -24,7 +24,7 @@ A systematic review synthesizing 349 retained reviews across eight quantum compu
 ## Featured Work
 
 ### Noise-Robust Hybrid Quantum Neural Networks
-**Master’s thesis research — University of East Carolina**  
+**Master’s thesis research — East Carolina University**  
 [`noise-robust-hqnn-framework`](https://github.com/jeragilo/noise-robust-hqnn-framework)
 
 A reusable experimental framework for evaluating and improving hybrid quantum–classical neural networks under NISQ-era noise.
@@ -34,6 +34,16 @@ A reusable experimental framework for evaluating and improving hybrid quantum–
 - Evaluates learned classical readout, multi-observable quantum features, architecture search, noise-aware objectives, repeated trials, and statistical validation
 - Improved evaluated noisy classification performance from approximately **0.37 with fixed parity readout to approximately 0.82–0.85 with learned and multi-observable readouts**
 - Explores how measurement design, entanglement structure, and classical post-processing affect robustness in hybrid quantum learning systems
+
+### Graduate Quantum Computing Curriculum & QREP Framework
+**Ongoing curriculum and research-software development — East Carolina University**
+
+Collaborating with university faculty on a **15-week graduate quantum computing curriculum** and a **12-laboratory instructional framework** connecting quantum theory, Qiskit programming, simulation, and IBM Quantum workflows.
+
+- Developing Jupyter notebooks, lecture materials, laboratory guides, and technical demonstrations.
+- Engineering a reusable Python package for quantum circuit experiments, statistical analysis, benchmarking, and reproducible results.
+- Building automated tests, backend inspection, transpilation checks, resource-budget planning, and guarded hardware-submission workflows.
+- **Development status:** Course materials and laboratories remain under development and faculty review. Hardware planning and offline validation should not be interpreted as completed physical QPU execution for every lab.
 
 ### CUDA Particle Simulation
 [`cuda-particle-simulation-hpc`](https://github.com/jeragilo/cuda-particle-simulation-hpc)
